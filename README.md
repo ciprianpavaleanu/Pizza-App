@@ -4,10 +4,10 @@ Fast React Pizza Co. is a Redux project where people can order pizza without aut
 
 # Technologies
 
-◾React
-◾Tailwindcss
-◾React Router
-◾Redux
+◾React </br>
+◾Tailwindcss </br>
+◾React Router </br>
+◾Redux 
 
 # Getting started 
 
