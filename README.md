@@ -1,8 +1,6 @@
 # Demo
 https://pizza-app-react-pavaleanu.netlify.app/
 
-if it will open an error, click on 'back to our site' this will bring you to the demo
-
 # Pizza-App
 
 Fast React Pizza Co. is a Redux project where people can order pizza without authentication.
